@@ -11,7 +11,7 @@
         <header></header>
         <nav>
             <ul>
-                <li>Home</li>
+                <li><a href=""> Home </a> </li>
                 <li>Contact</li>
                 <li>Blog</li>
             </ul>
