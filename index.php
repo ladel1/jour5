@@ -9,6 +9,13 @@
 <body>
     <div class="container">
         <header></header>
+        <nav>
+            <ul>
+                <li>Home</li>
+                <li>Contact</li>
+                <li>Blog</li>
+            </ul>
+        </nav>
         <main>
             <h1>Jour 5</h1>
         </main>
